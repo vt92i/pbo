@@ -131,4 +131,9 @@ public class Karyawan {
       data += "Jam Kerja: " + this.jamKerja + "\n";
     return data;
   }
+
+  @Override
+  public String toString() {
+    return this.nama;
+  }
 }

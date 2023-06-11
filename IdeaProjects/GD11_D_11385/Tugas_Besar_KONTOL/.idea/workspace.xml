@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36fb0b36-ec48-4c75-be57-f30a60ab3c52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../NetBeansProjects/GD10_D_11385/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NetBeansProjects/GD10_D_11385/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NetBeansProjects/GD10_D_11385/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NetBeansProjects/GD10_D_11385/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NetBeansProjects/GD10_D_11385/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NetBeansProjects/GD10_D_11385/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NetBeansProjects/GD10_D_11385/src/Connection/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NetBeansProjects/GD10_D_11385/src/Control/DosenControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NetBeansProjects/GD10_D_11385/src/Control/MataKuliahControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NetBeansProjects/GD10_D_11385/src/DAO/DosenDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NetBeansProjects/GD10_D_11385/src/DAO/MataKuliahDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NetBeansProjects/GD10_D_11385/src/Exception/InputEmptyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NetBeansProjects/GD10_D_11385/src/Exception/NoIndukDosenException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NetBeansProjects/GD10_D_11385/src/Model/Dosen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NetBeansProjects/GD10_D_11385/src/Model/MataKuliah.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NetBeansProjects/GD10_D_11385/src/Table/TableMataKuliah.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NetBeansProjects/GD10_D_11385/src/View/DosenView.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NetBeansProjects/GD10_D_11385/src/View/DosenView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TGS9_D_21/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TGS9_D_21/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TGS9_D_21/src/model/Karyawan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TGS9_D_21/src/model/Karyawan.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2R3Oki6qHSlusw2BOrxjdCf4upt" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>

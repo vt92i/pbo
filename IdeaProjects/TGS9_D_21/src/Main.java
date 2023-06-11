@@ -1,11 +1,15 @@
-import control.KaryawanControl;
+import exception.InvalidJenisKaryawanException;
+import exception.InvalidKaryawanIDException;
+
+import java.sql.SQLException;
 
 public class Main {
-    public static void main(String[] args) {
-        KaryawanControl karyawanControl = new KaryawanControl();
+  public static void main(String[] args) throws InvalidJenisKaryawanException, SQLException, InvalidKaryawanIDException {
+    String fasilitas = "Mic, Projector, Dispenser";
 
-        System.out.println(karyawanControl.showAllDataKaryawan());
-//        System.out.println(karyawanControl.showAllDataDosen());
-//        System.out.println(karyawanControl.showAllDataStaff());
-    }
+    String[] fArray = fasilitas.split(", ");
+
+    System.out.println(fArray[2]);
+
+  }
 }
